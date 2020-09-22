@@ -1,0 +1,55 @@
+<div class="container">
+  <br />
+  <form (submit)="frmSubmit()" #Frm="ngForm">
+    <h2>Login Form</h2>
+    <div class="form-group">
+      <label for="UserName">UserName</label>
+      <input
+        #UserName="ngModel"
+        [(ngModel)]="LogInUser.UserName"
+        required
+        type="text"
+        name="UserName"
+        class="form-control"
+        id="UserName"
+        placeholder="Enter UserName"
+        minlength="4"
+      />
+      <div
+        [hidden]="UserName.valid || UserName.pristine"
+        class="alert alert-danger"
+      >
+        username is required
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="Password"> Password</label>
+      <input
+        #Password="ngModel"
+        [(ngModel)]="LogInUser.Password"
+        required
+        type="text"
+        name="Password"
+        class="form-control"
+        id="Password"
+        placeholder="Enter Password"
+        minlength="6"
+      />
+      <div
+        [hidden]="Password.valid || Password.pristine"
+        class="alert alert-danger"
+      >
+        password is required
+      </div>
+    </div>
+
+    <input
+      value="LogIn"
+      type="submit"
+      class="btn btn-primary"
+      [disabled]="!Frm.form.valid"
+    />
+  </form>
+  <br />
+</div>

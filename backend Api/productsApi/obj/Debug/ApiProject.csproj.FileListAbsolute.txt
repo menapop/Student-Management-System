@@ -1,0 +1,369 @@
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\obj\Debug\ApiProject.csprojResolveAssemblyReference.cache
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\obj\Debug\productsApi.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\obj\Debug\productsApi.pdb
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\roslyn\csc.exe
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\roslyn\vbc.exe
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\productsApi.dll.config
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\productsApi.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\productsApi.pdb
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Antlr3.Runtime.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\EntityFramework.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\EntityFramework.SqlServer.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.Owin.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.Owin.Security.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Newtonsoft.Json.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Owin.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Net.Http.Formatting.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Cors.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Helpers.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Http.Cors.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Http.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Http.Owin.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Http.WebHost.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Mvc.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Optimization.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Razor.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.WebPages.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\WebGrease.dll
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Antlr3.Runtime.pdb
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\EntityFramework.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\EntityFramework.SqlServer.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.Owin.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.Owin.Security.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Net.Http.Formatting.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Helpers.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Http.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Http.Cors.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Http.Owin.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Mvc.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Optimization.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Razor.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.WebPages.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\Newtonsoft.Json.xml
+C:\Users\raed\Desktop\api\Api\productsApi\productsApi\bin\System.Web.Http.WebHost.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\roslyn\csc.exe
+D:\iti\Angular Project\ApiProject\productsApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\iti\Angular Project\ApiProject\productsApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\iti\Angular Project\ApiProject\productsApi\bin\roslyn\System.Collections.Immutable.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\roslyn\vbc.exe
+D:\iti\Angular Project\ApiProject\productsApi\bin\roslyn\VBCSCompiler.exe
+D:\iti\Angular Project\ApiProject\productsApi\bin\roslyn\VBCSCompiler.exe.config
+D:\iti\Angular Project\ApiProject\productsApi\bin\productsApi.dll.config
+D:\iti\Angular Project\ApiProject\productsApi\bin\productsApi.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\productsApi.pdb
+D:\iti\Angular Project\ApiProject\productsApi\bin\Antlr3.Runtime.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\EntityFramework.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\EntityFramework.SqlServer.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.AspNet.Identity.Core.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.Owin.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.Owin.Security.Cookies.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.Owin.Security.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.Owin.Security.OAuth.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.Web.Infrastructure.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Newtonsoft.Json.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Owin.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Net.Http.Formatting.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Cors.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Helpers.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Http.Cors.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Http.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Http.Owin.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Http.WebHost.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Mvc.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Optimization.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Razor.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.WebPages.Deployment.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.WebPages.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.WebPages.Razor.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\WebGrease.dll
+D:\iti\Angular Project\ApiProject\productsApi\bin\Antlr3.Runtime.pdb
+D:\iti\Angular Project\ApiProject\productsApi\bin\EntityFramework.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\EntityFramework.SqlServer.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.AspNet.Identity.Core.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.Owin.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.Owin.Security.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.Owin.Security.Cookies.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\Microsoft.Owin.Security.OAuth.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Net.Http.Formatting.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Helpers.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Http.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Http.Cors.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Http.Owin.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Mvc.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Optimization.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Razor.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.WebPages.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.WebPages.Deployment.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.WebPages.Razor.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\Newtonsoft.Json.xml
+D:\iti\Angular Project\ApiProject\productsApi\bin\System.Web.Http.WebHost.xml
+D:\iti\Angular Project\ApiProject\productsApi\obj\Debug\productsApi.dll
+D:\iti\Angular Project\ApiProject\productsApi\obj\Debug\productsApi.pdb
+D:\iti\Angular Project\ApiProject\productsApi\obj\Debug\ApiProject.csprojResolveAssemblyReference.cache
+D:\iti\Angular Project\ApiProject\productsApi\obj\Debug\productsApi.Migrations.InitialCreate.resources
+D:\iti\Angular Project\ApiProject\productsApi\obj\Debug\ApiProject.csproj.GenerateResource.Cache
+D:\iti\Angular Project\ApiProject\productsApi\obj\Debug\productsApi.Migrations.r.resources
+E:\angular project\ApiProject\productsApi\obj\Debug\ApiProject.csprojResolveAssemblyReference.cache
+E:\angular project\ApiProject\productsApi\obj\Debug\productsApi.dll
+E:\angular project\ApiProject\productsApi\obj\Debug\productsApi.pdb
+E:\angular project\ApiProject\productsApi\bin\roslyn\csc.exe
+E:\angular project\ApiProject\productsApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\angular project\ApiProject\productsApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\angular project\ApiProject\productsApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\angular project\ApiProject\productsApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\angular project\ApiProject\productsApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\angular project\ApiProject\productsApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\angular project\ApiProject\productsApi\bin\roslyn\System.Collections.Immutable.dll
+E:\angular project\ApiProject\productsApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\angular project\ApiProject\productsApi\bin\roslyn\vbc.exe
+E:\angular project\ApiProject\productsApi\bin\roslyn\VBCSCompiler.exe
+E:\angular project\ApiProject\productsApi\bin\roslyn\VBCSCompiler.exe.config
+E:\angular project\ApiProject\productsApi\bin\productsApi.dll.config
+E:\angular project\ApiProject\productsApi\bin\productsApi.dll
+E:\angular project\ApiProject\productsApi\bin\productsApi.pdb
+E:\angular project\ApiProject\productsApi\bin\Antlr3.Runtime.dll
+E:\angular project\ApiProject\productsApi\bin\EntityFramework.dll
+E:\angular project\ApiProject\productsApi\bin\EntityFramework.SqlServer.dll
+E:\angular project\ApiProject\productsApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\angular project\ApiProject\productsApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\angular project\ApiProject\productsApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\angular project\ApiProject\productsApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\angular project\ApiProject\productsApi\bin\Microsoft.Owin.dll
+E:\angular project\ApiProject\productsApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\angular project\ApiProject\productsApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\angular project\ApiProject\productsApi\bin\Microsoft.Owin.Security.dll
+E:\angular project\ApiProject\productsApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\angular project\ApiProject\productsApi\bin\Microsoft.Web.Infrastructure.dll
+E:\angular project\ApiProject\productsApi\bin\Newtonsoft.Json.dll
+E:\angular project\ApiProject\productsApi\bin\Owin.dll
+E:\angular project\ApiProject\productsApi\bin\System.Net.Http.Formatting.dll
+E:\angular project\ApiProject\productsApi\bin\System.Web.Cors.dll
+E:\angular project\ApiProject\productsApi\bin\System.Web.Helpers.dll
+E:\angular project\ApiProject\productsApi\bin\System.Web.Http.Cors.dll
+E:\angular project\ApiProject\productsApi\bin\System.Web.Http.dll
+E:\angular project\ApiProject\productsApi\bin\System.Web.Http.Owin.dll
+E:\angular project\ApiProject\productsApi\bin\System.Web.Http.WebHost.dll
+E:\angular project\ApiProject\productsApi\bin\System.Web.Mvc.dll
+E:\angular project\ApiProject\productsApi\bin\System.Web.Optimization.dll
+E:\angular project\ApiProject\productsApi\bin\System.Web.Razor.dll
+E:\angular project\ApiProject\productsApi\bin\System.Web.WebPages.Deployment.dll
+E:\angular project\ApiProject\productsApi\bin\System.Web.WebPages.dll
+E:\angular project\ApiProject\productsApi\bin\System.Web.WebPages.Razor.dll
+E:\angular project\ApiProject\productsApi\bin\WebGrease.dll
+E:\angular project\ApiProject\productsApi\bin\Antlr3.Runtime.pdb
+E:\angular project\ApiProject\productsApi\bin\EntityFramework.xml
+E:\angular project\ApiProject\productsApi\bin\EntityFramework.SqlServer.xml
+E:\angular project\ApiProject\productsApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\angular project\ApiProject\productsApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\angular project\ApiProject\productsApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\angular project\ApiProject\productsApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\angular project\ApiProject\productsApi\bin\Microsoft.Owin.xml
+E:\angular project\ApiProject\productsApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\angular project\ApiProject\productsApi\bin\Microsoft.Owin.Security.xml
+E:\angular project\ApiProject\productsApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\angular project\ApiProject\productsApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\angular project\ApiProject\productsApi\bin\System.Net.Http.Formatting.xml
+E:\angular project\ApiProject\productsApi\bin\System.Web.Helpers.xml
+E:\angular project\ApiProject\productsApi\bin\System.Web.Http.xml
+E:\angular project\ApiProject\productsApi\bin\System.Web.Http.Cors.xml
+E:\angular project\ApiProject\productsApi\bin\System.Web.Http.Owin.xml
+E:\angular project\ApiProject\productsApi\bin\System.Web.Mvc.xml
+E:\angular project\ApiProject\productsApi\bin\System.Web.Optimization.xml
+E:\angular project\ApiProject\productsApi\bin\System.Web.Razor.xml
+E:\angular project\ApiProject\productsApi\bin\System.Web.WebPages.xml
+E:\angular project\ApiProject\productsApi\bin\System.Web.WebPages.Deployment.xml
+E:\angular project\ApiProject\productsApi\bin\System.Web.WebPages.Razor.xml
+E:\angular project\ApiProject\productsApi\bin\Newtonsoft.Json.xml
+E:\angular project\ApiProject\productsApi\bin\System.Web.Http.WebHost.xml
+E:\angular project\backend Api\productsApi\bin\roslyn\csc.exe
+E:\angular project\backend Api\productsApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\angular project\backend Api\productsApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\angular project\backend Api\productsApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\angular project\backend Api\productsApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\angular project\backend Api\productsApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\angular project\backend Api\productsApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\angular project\backend Api\productsApi\bin\roslyn\System.Collections.Immutable.dll
+E:\angular project\backend Api\productsApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\angular project\backend Api\productsApi\bin\roslyn\vbc.exe
+E:\angular project\backend Api\productsApi\bin\roslyn\VBCSCompiler.exe
+E:\angular project\backend Api\productsApi\bin\roslyn\VBCSCompiler.exe.config
+E:\angular project\backend Api\productsApi\bin\productsApi.dll.config
+E:\angular project\backend Api\productsApi\bin\productsApi.dll
+E:\angular project\backend Api\productsApi\bin\productsApi.pdb
+E:\angular project\backend Api\productsApi\bin\Antlr3.Runtime.dll
+E:\angular project\backend Api\productsApi\bin\EntityFramework.dll
+E:\angular project\backend Api\productsApi\bin\EntityFramework.SqlServer.dll
+E:\angular project\backend Api\productsApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\angular project\backend Api\productsApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\angular project\backend Api\productsApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\angular project\backend Api\productsApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\angular project\backend Api\productsApi\bin\Microsoft.Owin.dll
+E:\angular project\backend Api\productsApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\angular project\backend Api\productsApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\angular project\backend Api\productsApi\bin\Microsoft.Owin.Security.dll
+E:\angular project\backend Api\productsApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\angular project\backend Api\productsApi\bin\Microsoft.Web.Infrastructure.dll
+E:\angular project\backend Api\productsApi\bin\Newtonsoft.Json.dll
+E:\angular project\backend Api\productsApi\bin\Owin.dll
+E:\angular project\backend Api\productsApi\bin\System.Net.Http.Formatting.dll
+E:\angular project\backend Api\productsApi\bin\System.Web.Cors.dll
+E:\angular project\backend Api\productsApi\bin\System.Web.Helpers.dll
+E:\angular project\backend Api\productsApi\bin\System.Web.Http.Cors.dll
+E:\angular project\backend Api\productsApi\bin\System.Web.Http.dll
+E:\angular project\backend Api\productsApi\bin\System.Web.Http.Owin.dll
+E:\angular project\backend Api\productsApi\bin\System.Web.Http.WebHost.dll
+E:\angular project\backend Api\productsApi\bin\System.Web.Mvc.dll
+E:\angular project\backend Api\productsApi\bin\System.Web.Optimization.dll
+E:\angular project\backend Api\productsApi\bin\System.Web.Razor.dll
+E:\angular project\backend Api\productsApi\bin\System.Web.WebPages.Deployment.dll
+E:\angular project\backend Api\productsApi\bin\System.Web.WebPages.dll
+E:\angular project\backend Api\productsApi\bin\System.Web.WebPages.Razor.dll
+E:\angular project\backend Api\productsApi\bin\WebGrease.dll
+E:\angular project\backend Api\productsApi\bin\Antlr3.Runtime.pdb
+E:\angular project\backend Api\productsApi\bin\EntityFramework.xml
+E:\angular project\backend Api\productsApi\bin\EntityFramework.SqlServer.xml
+E:\angular project\backend Api\productsApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\angular project\backend Api\productsApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\angular project\backend Api\productsApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\angular project\backend Api\productsApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\angular project\backend Api\productsApi\bin\Microsoft.Owin.xml
+E:\angular project\backend Api\productsApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\angular project\backend Api\productsApi\bin\Microsoft.Owin.Security.xml
+E:\angular project\backend Api\productsApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\angular project\backend Api\productsApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\angular project\backend Api\productsApi\bin\System.Net.Http.Formatting.xml
+E:\angular project\backend Api\productsApi\bin\System.Web.Helpers.xml
+E:\angular project\backend Api\productsApi\bin\System.Web.Http.xml
+E:\angular project\backend Api\productsApi\bin\System.Web.Http.Cors.xml
+E:\angular project\backend Api\productsApi\bin\System.Web.Http.Owin.xml
+E:\angular project\backend Api\productsApi\bin\System.Web.Mvc.xml
+E:\angular project\backend Api\productsApi\bin\System.Web.Optimization.xml
+E:\angular project\backend Api\productsApi\bin\System.Web.Razor.xml
+E:\angular project\backend Api\productsApi\bin\System.Web.WebPages.xml
+E:\angular project\backend Api\productsApi\bin\System.Web.WebPages.Deployment.xml
+E:\angular project\backend Api\productsApi\bin\System.Web.WebPages.Razor.xml
+E:\angular project\backend Api\productsApi\bin\Newtonsoft.Json.xml
+E:\angular project\backend Api\productsApi\bin\System.Web.Http.WebHost.xml
+E:\angular project\backend Api\productsApi\obj\Debug\ApiProject.csprojResolveAssemblyReference.cache
+E:\angular project\backend Api\productsApi\obj\Debug\productsApi.dll
+E:\angular project\backend Api\productsApi\obj\Debug\productsApi.pdb
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\roslyn\csc.exe
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\roslyn\System.Collections.Immutable.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\roslyn\vbc.exe
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\roslyn\VBCSCompiler.exe
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\roslyn\VBCSCompiler.exe.config
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\productsApi.dll.config
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\productsApi.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\productsApi.pdb
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Antlr3.Runtime.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\EntityFramework.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\EntityFramework.SqlServer.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.Owin.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.Owin.Security.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.Web.Infrastructure.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Newtonsoft.Json.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Owin.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Net.Http.Formatting.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Cors.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Helpers.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Http.Cors.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Http.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Http.Owin.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Http.WebHost.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Mvc.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Optimization.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Razor.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.WebPages.Deployment.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.WebPages.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.WebPages.Razor.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\WebGrease.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Antlr3.Runtime.pdb
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\EntityFramework.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\EntityFramework.SqlServer.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.Owin.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.Owin.Security.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Net.Http.Formatting.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Helpers.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Http.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Http.Cors.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Http.Owin.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Mvc.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Optimization.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Razor.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.WebPages.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.WebPages.Deployment.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.WebPages.Razor.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\Newtonsoft.Json.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\bin\System.Web.Http.WebHost.xml
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\obj\Debug\ApiProject.csproj.CoreCompileInputs.cache
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\obj\Debug\ApiProject.csproj.CopyComplete
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\obj\Debug\productsApi.dll
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\obj\Debug\productsApi.pdb
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\obj\Debug\ApiProject.csprojAssemblyReference.cache
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\obj\Debug\productsApi.Migrations.InitialCreate.resources
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\obj\Debug\ApiProject.csproj.GenerateResource.cache
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\obj\Debug\productsApi.Migrations.first.resources
+E:\Mena Marcos Angular Project\Mena Marcos Angular Project\backend Api\productsApi\obj\Debug\productsApi.Migrations.third.resources

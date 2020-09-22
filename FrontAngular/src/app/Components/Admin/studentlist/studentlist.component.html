@@ -1,0 +1,36 @@
+<br />
+<h3>All Students</h3>
+<a class="btn btn-success" routerLink="/students/Add">Add New Studen </a>
+<br /><br />
+<div class="container-fluid">
+  <table class="table table-stripped">
+    <tr>
+      <th>Student Name</th>
+      <th>Student Address</th>
+      <th>Student Username</th>
+      <th>Student Details</th>
+      <th>Edit student</th>
+      <th>Delete student</th>
+    </tr>
+    <tr *ngFor="let std of students">
+      <td>{{ std.Name }}</td>
+      <td>{{ std.Address }}</td>
+      <td>{{ std.UserName }}</td>
+      <td>
+        <button class="btn btn-success" (click)="showstudentDetalis(std.Id)">
+          Details
+        </button>
+      </td>
+      <td>
+        <button (click)="updatestudent(std.Id)" class="btn btn-info">
+          Update
+        </button>
+      </td>
+      <td>
+        <button (click)="DeleteUser(std.Id, std.Name)" class="btn btn-danger">
+          Delete
+        </button>
+      </td>
+    </tr>
+  </table>
+</div>

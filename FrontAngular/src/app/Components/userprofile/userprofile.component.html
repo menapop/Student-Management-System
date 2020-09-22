@@ -1,0 +1,23 @@
+<br />
+<h3>User Profile Data</h3>
+<div class="card" style="width: 20rem;">
+  <div class="card-body">
+    <h5 class="card-title">Name : {{ studentdata.Name }}</h5>
+    <h6 class="card-subtitle mb-2 text-muted">
+      Address :{{ studentdata.Address }}
+    </h6>
+    <p class="card-text">Department: {{ studentdata.DepartmentName }}</p>
+    <p>Username: {{ studentdata.UserName }}</p>
+  </div>
+</div>
+<br />
+<table class="table table-stripped">
+  <tr>
+    <th>Course Name</th>
+    <th>Course Degree</th>
+  </tr>
+  <tr *ngFor="let crsdegree of studentdata.ListCourseDegree">
+    <td>{{ crsdegree.Name }}</td>
+    <td>{{ crsdegree.Degree }}</td>
+  </tr>
+</table>

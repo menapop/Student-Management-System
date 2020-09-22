@@ -1,0 +1,34 @@
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-toggle="collapse"
+    data-target="#collapsibleNavbar"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="collapsibleNavbar">
+    <ul class="navbar-nav">
+      <li *ngIf="this.RoleId == -1" class="nav-item">
+        <a class="nav-link" routerLink="/login" routerLinkActive="active"
+          >Login</a
+        >
+      </li>
+      <li *ngIf="RoleName == 'Admin'" class="nav-item">
+        <a class="nav-link" routerLink="/Sudents" routerLinkActive="active"
+          >Students</a
+        >
+      </li>
+
+      <li *ngIf="RoleName == 'User'" class="nav-item">
+        <a class="nav-link" routerLink="/profile" routerLinkActive="active"
+          >profile</a
+        >
+      </li>
+
+      <li *ngIf="this.RoleId != -1" class="nav-item">
+        <button class="nav-link btn " (click)="LogOut()">LogOut</button>
+      </li>
+    </ul>
+  </div>
+</nav>

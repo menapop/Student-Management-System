@@ -1,0 +1,105 @@
+<div class="container">
+  <br />
+  <h3>Add New Student</h3>
+
+  <form (submit)="frmSubmit()" #studentForm="ngForm">
+    <div class="form-group">
+      <label for="StudentName">Student Name</label>
+      <input
+        #stdName="ngModel"
+        [(ngModel)]="std.Name"
+        required
+        type="text"
+        name="StudentName"
+        class="form-control"
+        id="StudentName"
+        placeholder="Enter Student Name"
+      />
+      <div
+        [hidden]="stdName.valid || stdName.pristine"
+        class="alert alert-danger"
+      >
+        Name is required
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="studentAddress">Student Address</label>
+      <input
+        #stdAdress="ngModel"
+        [(ngModel)]="std.Address"
+        type="text"
+        name="studentAddress"
+        required
+        class="form-control"
+        id="studentAddress"
+        placeholder="Enter Student Address"
+      />
+      <div
+        [hidden]="stdAdress.valid || stdAdress.pristine"
+        class="alert alert-danger"
+      >
+        Address is required
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="username">Student UserName</label>
+      <input
+        #stdusername="ngModel"
+        [(ngModel)]="std.UserName"
+        type="text"
+        required
+        minlength="4"
+        name="username"
+        class="form-control"
+        id="username"
+        placeholder="Enter student UserName"
+      />
+      <div
+        [hidden]="stdusername.valid || stdusername.pristine"
+        class="alert alert-danger"
+      >
+        username is required
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input
+        #pass="ngModel"
+        [(ngModel)]="std.password"
+        type="password"
+        required
+        minlength="6"
+        name="password"
+        class="form-control"
+        id="password"
+        placeholder="Enter Student PassWord"
+      />
+      <div [hidden]="pass.valid || pass.pristine" class="alert alert-danger">
+        Password is required
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div>
+        <label>Select Department: &nbsp;&nbsp;&nbsp;</label>
+        <select [(ngModel)]="selecteddepartment" #deptsDDL name="depDDL">
+          <option *ngFor="let dep of Depts" [value]="dep.ID">
+            {{ dep.Name }}</option
+          >
+        </select>
+      </div>
+    </div>
+
+    <input
+      value="Add Student"
+      type="submit"
+      class="btn btn-primary"
+      [disabled]="!studentForm.form.valid"
+    />
+    <br />
+  </form>
+  <br />
+</div>
